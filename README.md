@@ -1,7 +1,17 @@
-###Big header 
+# R Markdown example
 
-##small header 
+###wee header 
 
-# Title goes here 
+Plain text like this or ~~strikethrough the plain text ~~.  
 
-- demo 1 
+Can include links as well, for example to Rstudio [link] http://www.rstudio.com
+
+And hope that:
+
+* header comes out nicely
+* link works
+* there's always money in the banana stand 
+
+End of text 
+
+
