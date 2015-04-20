@@ -1,10 +1,10 @@
 # R Markdown example
 
-###wee header 
+#####wee header 
 
-Plain text like this or ~~strikethrough the plain text ~~.  
+Plain text like this or **this** or *this* 
 
-Can include links as well, for example to Rstudio [link] http://www.rstudio.com
+Can include links as well, for example to Rstudio [link to Rstudio] (http://www.rstudio.com)
 
 And hope that:
 
